@@ -13,3 +13,7 @@ As deaths are introduced, each day a sick agent faces death with some probabilit
 
 Finally, I have briefly introduced some of the economics aspects of epidemic with wages and disease costs.
 These are very basic rudimentaries. I am in the process of deveoping a lockdown model for the same and will post more.
+
+
+Have fun creating your own pandemic
+-Ayush Mathur (18065)
