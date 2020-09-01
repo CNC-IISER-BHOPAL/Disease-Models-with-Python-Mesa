@@ -15,5 +15,7 @@ Finally, I have briefly introduced some of the economics aspects of epidemic wit
 These are very basic rudimentaries. I am in the process of deveoping a lockdown model for the same and will post more.
 
 
-Have fun creating your own pandemic
--Ayush Mathur (18065)
+Have fun creating your own pandemic.
+
+Original Creator
+Ayush Mathur (18065)
